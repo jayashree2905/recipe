@@ -1,0 +1,23 @@
+h1{
+    text-align: center ;
+}
+h4{
+    text-align: center;
+}
+.after{
+    color:red;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info{
+    font-style: italic;
+}
+.alt:nth-child(even){
+    background-color:beige;
+}
+.alt:nth-child(odd){
+    background-color:thistle;
+}
